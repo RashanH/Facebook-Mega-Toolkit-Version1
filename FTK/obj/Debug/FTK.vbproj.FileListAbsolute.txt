@@ -1,0 +1,49 @@
+C:\Users\RshnX5\Documents\Visual Studio 2012\Projects\FTK\FTK\bin\Debug\FTK.exe
+C:\Users\RshnX5\Documents\Visual Studio 2012\Projects\FTK\FTK\bin\Debug\FTK.pdb
+C:\Users\RshnX5\Documents\Visual Studio 2012\Projects\FTK\FTK\bin\Debug\FTK.xml
+C:\Users\RshnX5\Documents\Visual Studio 2012\Projects\FTK\FTK\obj\Debug\FTK.Resources.resources
+C:\Users\RshnX5\Documents\Visual Studio 2012\Projects\FTK\FTK\obj\Debug\FTK.vbproj.GenerateResource.Cache
+C:\Users\RshnX5\Documents\Visual Studio 2012\Projects\FTK\FTK\obj\Debug\FTK.exe
+C:\Users\RshnX5\Documents\Visual Studio 2012\Projects\FTK\FTK\obj\Debug\FTK.xml
+C:\Users\RshnX5\Documents\Visual Studio 2012\Projects\FTK\FTK\obj\Debug\FTK.pdb
+C:\Users\RshnX5\Documents\Visual Studio 2012\Projects\FTK\FTK\obj\Debug\FTK.MainForm.resources
+C:\Users\RshnX5\Documents\Visual Studio 2012\Projects\FTK\FTK\obj\Debug\FTK.vbprojResolveAssemblyReference.cache
+C:\Users\RshnX5\Documents\Visual Studio 2012\Projects\FTK\FTK\obj\Debug\FTK.AboutForm.resources
+C:\Users\RshnX5\Documents\Visual Studio 2012\Projects\FTK - Copy\FTK\obj\Debug\FTK.exe
+C:\Users\RshnX5\Documents\Visual Studio 2012\Projects\FTK - Copy\FTK\obj\Debug\FTK.xml
+C:\Users\RshnX5\Documents\Visual Studio 2012\Projects\FTK - Copy\FTK\obj\Debug\FTK.pdb
+C:\Users\RshnX5\Documents\Visual Studio 2012\Projects\FTK - Copy\FTK\bin\Debug\FTK.exe
+C:\Users\RshnX5\Documents\Visual Studio 2012\Projects\FTK - Copy\FTK\bin\Debug\FTK.pdb
+C:\Users\RshnX5\Documents\Visual Studio 2012\Projects\FTK - Copy\FTK\bin\Debug\FTK.xml
+C:\Users\RshnX5\Documents\Visual Studio 2012\Projects\FTK - Copy\FTK\obj\Debug\FTK.vbprojResolveAssemblyReference.cache
+C:\Users\RshnX5\Documents\Visual Studio 2012\Projects\FTK - Copy\FTK\obj\Debug\FTK.AboutForm.resources
+C:\Users\RshnX5\Documents\Visual Studio 2012\Projects\FTK - Copy\FTK\obj\Debug\FTK.MainForm.resources
+C:\Users\RshnX5\Documents\Visual Studio 2012\Projects\FTK - Copy\FTK\obj\Debug\FTK.Resources.resources
+C:\Users\RshnX5\Documents\Visual Studio 2012\Projects\FTK - Copy\FTK\obj\Debug\FTK.vbproj.GenerateResource.Cache
+F:\FTK - Copy\FTK\obj\Debug\FTK.exe
+F:\FTK - Copy\FTK\obj\Debug\FTK.xml
+F:\FTK - Copy\FTK\obj\Debug\FTK.pdb
+F:\FTK - Copy\FTK\bin\Debug\FTK.exe
+F:\FTK - Copy\FTK\bin\Debug\FTK.pdb
+F:\FTK - Copy\FTK\bin\Debug\FTK.xml
+F:\FTK - Copy\FTK\obj\Debug\FTK.vbprojResolveAssemblyReference.cache
+F:\FTK - Copy\FTK\obj\Debug\FTK.AboutForm.resources
+F:\FTK - Copy\FTK\obj\Debug\FTK.MainForm.resources
+F:\FTK - Copy\FTK\obj\Debug\FTK.Resources.resources
+F:\FTK - Copy\FTK\obj\Debug\FTK.vbproj.GenerateResource.Cache
+F:\FTK - Copy\FTK\obj\Debug\Interop.MSHTML.dll
+F:\FTK - Copy\FTK\obj\Debug\FTK.vbproj.ResolveComReference.cache
+E:\FTK - Copy\FTK\obj\Debug\Interop.MSHTML.dll
+E:\FTK - Copy\FTK\obj\Debug\FTK.vbproj.ResolveComReference.cache
+E:\FTK - Copy\FTK\obj\Debug\FTK.exe
+E:\FTK - Copy\FTK\obj\Debug\FTK.xml
+E:\FTK - Copy\FTK\obj\Debug\FTK.pdb
+E:\FTK - Copy\FTK\bin\Debug\FTK.exe
+E:\FTK - Copy\FTK\bin\Debug\FTK.pdb
+E:\FTK - Copy\FTK\bin\Debug\FTK.xml
+E:\FTK - Copy\FTK\obj\Debug\FTK.vbprojResolveAssemblyReference.cache
+E:\FTK - Copy\FTK\obj\Debug\FTK.AboutForm.resources
+E:\FTK - Copy\FTK\obj\Debug\FTK.MainForm.resources
+E:\FTK - Copy\FTK\obj\Debug\FTK.Resources.resources
+E:\FTK - Copy\FTK\obj\Debug\FTK.vbproj.GenerateResource.Cache
+E:\FTK - Copy\FTK\obj\Debug\FTK.frm_tos.resources
